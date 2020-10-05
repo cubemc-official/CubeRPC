@@ -1,0 +1,1 @@
+start java -Xms512M -Xmx512M -jar cuberpc-1.0-SNAPSHOT.jar
